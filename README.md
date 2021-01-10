@@ -14,13 +14,14 @@ A simple landing page using bootstrap and mailchimp that collects response for t
  1. HTML
  2. CSS
  
- ## Demo
- #Landing Page:
- ![](images/pic1.png)
+ # Demo
+ ## Landing Page:
+ 
+ ![](image/pic2.png)
  
  Shows the basic details
  
- #Form
- ![](images/pic2.png)
+ ## Form
+ ![](image/pic1.png)
  
  Collects data and query of interested persons
